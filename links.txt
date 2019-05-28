@@ -8,8 +8,16 @@ Backup related links
 
 Links
 =====
+Borg Backup 
+Intriguing...
+https://borgbackup.readthedocs.io/en/stable/
+
 marcil/backup
 https://github.com/marcilr/backup
 
 marcil/backup-tex
 https://github.com/marcilr/backup-tex
+
+What are the best de-duplicating backup cli programs for Linux?
+Last updated Feb 16, 2019
+https://www.slant.co/topics/4814/~de-duplicating-backup-cli-programs-for-linux

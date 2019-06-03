@@ -12,6 +12,10 @@ Borg Backup
 Intriguing...
 https://borgbackup.readthedocs.io/en/stable/
 
+Glossary of backup terms
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Glossary_of_backup_terms
+
 marcil/backup
 https://github.com/marcilr/backup
 
